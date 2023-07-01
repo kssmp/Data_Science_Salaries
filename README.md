@@ -14,10 +14,8 @@ Analysis on Data set with 600+ entries of Salaries in the Data Science Field var
 
 
 ## Screenshots
-
-<img src="https://github.com/kssmp/Data_Science_Salaries/blob/main/output_graphs/salary%20distribution.png" height="500">
-<img src="https://github.com/kssmp/Data_Science_Salaries/blob/main/output_graphs/Remote%20Ration%20by%20work%20year.png" height="400">
-
+![salary distribution](https://github.com/kssmp/Data_Science_Salaries/assets/115448106/7b081bff-a541-481b-8019-7879d83c5a5f)
+![Remote Ration by work year](https://github.com/kssmp/Data_Science_Salaries/assets/115448106/8cafeaf9-933b-46f0-900e-a3c1ffce9330)
 
 ## Tech Stack
 
